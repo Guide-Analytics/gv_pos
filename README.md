@@ -1,4 +1,4 @@
-#GIDE INC.: Graph 2.0
+# GIDE INC.: Graph 2.0
 - Graph 2.0 is a developed version of 1.0 (previously used on smaller dataset) 
 - It's more focused on parse part-of-speech tags in reviews and extract out information
 for each reviewer: what kind of verbs, adjectives, nouns are used in each review.
